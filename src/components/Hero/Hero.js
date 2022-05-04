@@ -1,5 +1,4 @@
 import React from "react";
-import Emoji from "a11y-react-emoji/lib/Emoji";
 
 import {
   Section,
@@ -17,7 +16,8 @@ const Hero = (props) => (
         to have you here.
       </SectionTitle>
       <SectionText>
-        I am a Full-Stack Software developer on a mission to create and inspire.
+        I am a Full-Stack Software developer on a mission to create good quality
+        projects.
       </SectionText>
       <SectionText>
         <i style={{ fontWeight: "800" }}>

@@ -31,6 +31,7 @@ export const BlogCard = styled.div`
   }
 `;
 export const TitleContent = styled.div`
+  margin-top: 10px;
   text-align: center;
   z-index: 20;
   width: 100%;

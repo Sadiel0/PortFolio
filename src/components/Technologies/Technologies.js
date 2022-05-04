@@ -19,9 +19,7 @@ const Technologies = () => (
     <SectionDivider />
     <br />
     <SectionTitle>Technologies</SectionTitle>
-    <SectionText>
-      This is some random text that i will change later and make an improvement
-    </SectionText>
+    <SectionText>This are some of the technologies i have used...</SectionText>
     <List>
       <ListItem>
         <DiReact size="3rem" />
@@ -62,7 +60,11 @@ const Technologies = () => (
         <DiZend size="3rem" />
         <ListContainer>
           <ListTitle>UI/UX</ListTitle>
-          <ListParagraph>BalSamiq</ListParagraph>
+          <ListParagraph>
+            BalSamiq
+            <br />
+            Figma
+          </ListParagraph>
         </ListContainer>
       </ListItem>
     </List>

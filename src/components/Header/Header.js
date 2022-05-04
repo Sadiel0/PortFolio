@@ -1,7 +1,7 @@
 import Link from "next/link";
 import React from "react";
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from "react-icons/ai";
-import { DiCssdeck } from "react-icons/di";
+import { DiCodeigniter } from "react-icons/di";
 
 import {
   Container,
@@ -25,7 +25,7 @@ const Header = () => (
             marginBottom: "20px",
           }}
         >
-          <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
+          <DiCodeigniter size="3rem" /> <Span>Sadiel's Portoflio</Span>
         </a>
       </Link>
     </Div1>
