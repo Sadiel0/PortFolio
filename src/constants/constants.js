@@ -10,6 +10,16 @@ export const projects = [
     id: 0,
   },
   {
+    title: "DevSearch",
+    description:
+      "DevSearch allows developers to share their projects with other developers in the same community and get feedback on the specific project",
+    image: "/images/11.jpg",
+    tags: ["Python", "Django", "HTML", "SQLite"],
+    source: "https://github.com/Sadiel0/",
+    visit: "https://google.com",
+    id: 0,
+  },
+  {
     title: "BLog",
     description:
       "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
